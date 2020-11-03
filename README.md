@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Z programowaniem miałem do czynienia od bardzo dawna - rozpoczynając od Basica i Go 🐢, przez krótki epizod z Delphii, później VBA for Excel i w końcu JavaScript i Java. Po kilku latach pracy biurowej postanowiłem zmienić moje hobby w pracę i przebranżowić się. Wziąłem kurs programowania w Coderslab, a teraz rozpoczynam studia informatyczne.
+
+🔭 programuję w Javie od 18 miesięcy
+
+📫 https://www.linkedin.com/in/pawel-d-dabrowski/
+
 <!--
 **PawelDabrowski83/PawelDabrowski83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
