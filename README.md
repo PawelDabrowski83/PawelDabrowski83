@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world 👋
 
 Z programowaniem miałem do czynienia od bardzo dawna - rozpoczynając od Basica i Go 🐢, przez krótki epizod z Delphii, później VBA for Excel i w końcu JavaScript i Java. Po kilku latach pracy biurowej postanowiłem zmienić moje hobby w pracę i przebranżowić się. Wziąłem kurs programowania w Coderslab, a teraz rozpoczynam studia informatyczne.
 
