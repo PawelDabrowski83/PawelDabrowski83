@@ -6,6 +6,8 @@ Z programowaniem miałem do czynienia od bardzo dawna - rozpoczynając od Basica
 
 📫 https://www.linkedin.com/in/pawel-d-dabrowski/
 
+🌐 Założyłem też bloga, aby opisywać moje programistyczne przygody: https://programowanie-po-30.blogspot.com/
+
 <!--
 **PawelDabrowski83/PawelDabrowski83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
