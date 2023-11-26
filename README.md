@@ -2,7 +2,7 @@
 
 Z programowaniem miałem do czynienia od bardzo dawna - rozpoczynając od Basica i Go 🐢, przez krótki epizod z Delphii, później VBA for Excel i w końcu JavaScript i Java. Po kilku latach pracy biurowej postanowiłem zmienić moje hobby w pracę i przebranżowić się. Wziąłem kurs programowania w Coderslab, a teraz rozpoczynam studia informatyczne.
 
-🔭 programuję w Javie od 27 miesięcy
+🔭 programuję w Javie od 2019, trochę jak ten specjalista z reklamy, który od 10 lat naprawia pralkę ;)
 
 📫 https://www.linkedin.com/in/pawel-d-dabrowski/
 
